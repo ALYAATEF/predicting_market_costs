@@ -20,7 +20,7 @@ The repository contains the following components:
    - `Presentation_Slides.pdf`: A concise presentation summarizing the problem, methodology, results, and conclusions.  
 
 4. **Proposal**:  
-   - `Project_Proposal.pdf`: The initial proposal document outlining the project objectives, scope, and approach.  
+   - `Project_Proposal.docx`: The initial proposal document outlining the project objectives, scope, and approach.  
 
 ---
 
